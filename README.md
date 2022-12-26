@@ -1,6 +1,6 @@
 # Goodix Ghidra
 
-Decompiled drivers for Goodix
+Decompiled drivers for Goodix fingerprint sensors.
 
 We mainly work on https://www.ghidra-server.org/. Please ask [@mpi3d](https://github.com/mpi3d) to get access.
 
